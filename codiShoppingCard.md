@@ -1,3 +1,19 @@
+## ¿Qué es una Pull Request?
+
+Una Pull Request es una solicitud para fusionar los cambios de una rama con otra (normalmente `main`) y que alguien los revise antes de integrarlos.
+
+### ¿Para qué sirve?
+
+- Permite revisar el código antes de unirlo.
+- Facilita comentar y proponer mejoras.
+- Deja un historial claro de qué se cambió y por qué.
+
+### Ventajas
+
+- Mejora la calidad del código gracias a las revisiones.
+- Favorece el trabajo en equipo y el aprendizaje.
+- Evita romper la rama principal con cambios sin revisar.
+
 # ¿Qué es GitLab?
 
 GitLab es una plataforma completa para desarrollar software basada en repositorios Git.  
